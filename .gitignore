@@ -1,5 +1,4 @@
 .venv/
-.secrets/
 .env
 .env.*
 __pycache__/
@@ -13,3 +12,4 @@ powerbi/data/
 *.sqlite
 *.pbix
 *.log
+.secrets/
